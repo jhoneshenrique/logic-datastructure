@@ -1,4 +1,4 @@
-package repetition;
+package recursion;
 
 public class RecursiveSumNumbers {
     public static void main(String[] args) {

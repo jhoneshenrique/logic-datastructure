@@ -1,4 +1,4 @@
-package repetition;
+package recursion;
 
 public class RecursiveFatorial {
     public static void main(String[] args) {
