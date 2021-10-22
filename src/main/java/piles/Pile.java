@@ -2,6 +2,7 @@ package piles;
 
 //A Pile is an abstract type which we can interact only with the element on the top.
 // LIFO - Last in, First out
+//Static Pile
 public class Pile {
     //We are going to use an array to create the pile
     private int values[];
