@@ -1,4 +1,4 @@
-package arrays_sorting;
+package arrays_bubblesort;
 
 import java.util.Scanner;
 

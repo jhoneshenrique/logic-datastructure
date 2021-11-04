@@ -1,4 +1,4 @@
-package arrays_sorting;
+package arrays_binary_sequencial_search;
 
 import java.util.Scanner;
 
