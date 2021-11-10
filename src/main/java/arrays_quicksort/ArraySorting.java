@@ -20,6 +20,7 @@ public class ArraySorting {
         }
     }
 
+    //Cretes the partition in order to find the pivit
     private static int partition(int arr[], int begin, int end) {
         int pivot = arr[end];
         int i = (begin-1);
